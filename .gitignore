@@ -1,0 +1,20 @@
+# Exclude Python compiled files
+__pycache__/
+
+# Exclude IDE-specific files and directories 
+.vscode/
+.idea/
+
+# Exclude virtual environment directory 
+venv/
+env/
+
+# Exclude the 'Webscraper.csv' file
+Webscraper.csv
+
+# Exclude any other generated or temporary files/directories
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
